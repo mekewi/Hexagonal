@@ -1,0 +1,28 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: b818cf8d1486347f6bf5c1af477dab32, type: 3}
+  m_Name: LevelOneSettings
+  m_EditorClassIdentifier: 
+  HexCellColors:
+  - {r: 0.27074933, g: 1, b: 0, a: 1}
+  - {r: 1, g: 0, b: 0, a: 1}
+  - {r: 0, g: 0.3130746, b: 1, a: 1}
+  - {r: 0.96015084, g: 1, b: 0, a: 1}
+  - {r: 1, g: 0, b: 0.84147406, a: 1}
+  ScoreToReachExplodeHex: 50
+  ExplodeTimer: 6
+  SpacesBetweenHexas: 0
+  showCoordinates: 1
+  orientationType: 30
+  gridShape: 0
+  MapColumns: 9
+  MapRows: 8
